@@ -24,7 +24,6 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
-    <sdef n="cop"             c="Copula"/>
     <sdef n="postadv"         c="Postadverb"/>
     
     <sdef n="attr"            c="Attributive"/>
@@ -2201,8 +2200,6 @@
     <e><tat>зыялы<s n="n"/></tat><eng>intellectual<s n="n"/><s n="sg"/></eng></e>
     <e><tat>зыян<s n="n"/></tat><eng>harm<s n="n"/><s n="sg"/></eng></e>
     <e><tat>зыяндаш<s n="n"/></tat><eng>epilepsy<s n="n"/><s n="sg"/></eng></e>
-    <e><tat>и<s n="cop"/></tat><eng>be<s n="vbser"/></eng></e>
-    <e><tat>и<s n="cop"/><s n="aor"/><s n="p3"/><s n="sg"/></tat><eng>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></eng></e>
     <e><tat>ибн<s n="n"/></tat><eng>son<s n="n"/><s n="sg"/></eng></e>
     <e><tat>ибраэ<b/>гам<b/>кыл<s n="v"/><s n="tv"/></tat><eng>remit<b/>the<b/>debts</eng></e>
     <e><tat>ибраэ<b/>гам<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></tat><eng>remited<b/>the<b/>debts<b/>of<b/>each<b/>other</eng></e>

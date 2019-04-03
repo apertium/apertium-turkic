@@ -25,7 +25,6 @@
     <sdef n="cnjadv" 	c="Adverbial conjunction       Үстеу-жалғаулық     Рәвеш-теркәгеч"/> 
     <sdef n="ij" 	c="Interjection                Одағай              Ымлык"/> 
     <sdef n="abbr" 	c="Abbreviation                Қысқарған сөз       Кыскартылма"/> 
-    <sdef n="cop" 	c="Copula                      Копула              Копула"/> 
     <sdef n="ideo" 	c="Ideophone                   Еліктеу сөз         Аваз ияртеме"/> 
     <sdef n="top" 	c="Toponym"/> 
     <sdef n="ant" 	c="Anthroponym"/> 
@@ -70,8 +69,6 @@
     <sdef n="p2" 	c=""/> 
     <sdef n="p3" 	c=""/> 
     <sdef n="frm" 	c=""/> 
-    <sdef n="qst" 	c="Question modal particle (cltic)"/> 
-    <sdef n="emph" 	c="Emphasizing modal particle"/> 
     <sdef n="mod_ass" 	c="Assertive modal particle (clitic)"/> 
     <sdef n="mod_ind" 	c="Indefinite modal particle (clitic)"/> 
     <sdef n="mod" 	c="Modal verbs"/> 
@@ -87,27 +84,6 @@
     <sdef n="unk" 	c=""/>
   </sdefs>
   <section id="main" type="standard">
-
-<!-- SECTION: Modal/discourse particles -->
-
-
-<e>       <p><kaz>шы<s n="emph"/></kaz>                         <tat>чы<s n="emph"/></tat></p></e>
-<e r="RL"><p><kaz>шы<s n="emph"/></kaz>                         <tat>сана<s n="emph"/></tat></p></e>
-
-<e>       <p><kaz>ма<s n="qst"/></kaz>                          <tat>мы<s n="qst"/></tat></p></e>
-<e>       <p><kaz>мекен<s n="qst"/></kaz>                       <tat>микән<s n="qst"/></tat></p></e>
-<e>       <p><kaz>ма<b/>не<s n="qst"/></kaz>                    <tat>мыни<s n="qst"/></tat></p></e>
-<e>       <p><kaz>ше<s n="qst"/></kaz>                          <tat>ничек<s n="adv"/><s n="itg"/></tat></p></e>
-
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>бит<s n="mod_ass"/></tat></p></e>
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ич<s n="mod_ass"/></tat></p></e>
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ла<s n="mod_ass"/></tat></p></e>
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ләса<s n="mod_ass"/></tat></p></e>
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ләбаса<s n="mod_ass"/></tat></p></e>
-<e>       <p><kaz>ғой<s n="mod_ass"/></kaz>                     <tat>шул<s n="mod_ass"/></tat></p></e>
-
-<e>       <p><kaz>шығар<s n="mod"/></kaz>                       <tat>дыр<s n="mod_ind"/></tat></p></e>
-
 
 <!-- SECTION: Co-ordinating conjunctions -->
 

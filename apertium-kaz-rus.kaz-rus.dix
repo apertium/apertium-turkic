@@ -65,7 +65,6 @@
     <sdef n="loc" 	c=""/> 
     <sdef n="mod_ind" 	c=""/>
 <sdef n="mod" 	c=""/> 
-    <sdef n="cop" 	c=""/> 
     <sdef n="abl" 	c=""/> 
     <sdef n="ref" 	c=""/> 
     <sdef n="pos" 	c=""/> 
@@ -118,7 +117,6 @@
     <sdef n="dual" 	c=""/> 
     <sdef n="roman" 	c=""/> 
     <sdef n="arabian" 	c=""/> 
-    <sdef n="qst" 	c=""/> 
     <sdef n="px" 	c=""/> 
     <sdef n="sp" 	c=""/> 
     <sdef n="frm" 	c=""/> 
@@ -343,9 +341,6 @@
 
 <e><kaz>керек<s n="vblex"/></kaz><rus>нужно<s n="vaux"/><s n="pres"/></rus></e>
 <e><kaz>керек<s n="vblex"/></kaz><rus>нужно<s n="pred"/></rus></e>
-<e r="LR"><kaz>ма<s n="qst"/></kaz><rus></rus></e>
-<e r="LR"><kaz>ба<s n="qst"/></kaz><rus></rus></e>
-<e r="LR"><kaz>па<s n="qst"/></kaz><rus></rus></e>
 <e r="LR"><kaz>ғой<s n="mod_ass"/></kaz><rus></rus></e>
 <e r="LR"><kaz>шығар<s n="mod"/></kaz><rus></rus></e>
 
@@ -28193,7 +28188,6 @@
 <e><kaz>тіке<s n="adv"/></kaz><rus>ровно<s n="adv"/></rus></e>
 <e><kaz>ақырын<s n="adv"/></kaz><rus>медленно<s n="adv"/></rus></e>
 
-     <e r="LR"><kaz>е<s n="cop"/></kaz><rus></rus></e>
     <e><kaz>емес<s n="adv"/></kaz><rus>не<s n="adv"/></rus></e>
 
 
@@ -28528,7 +28522,6 @@
 <e r = "LR"><kaz>ғана<s n="postadv"/></kaz><rus>только<s n="adv"/></rus></e>
   <e r = "LR"><kaz>сыз<s n="post"/></kaz><rus></rus></e>
   <e r = "LR"><kaz>лы<s n="post"/></kaz><rus></rus></e>
-<e r="LR"><kaz>мекен<s n="qst"/></kaz><rus></rus></e>
 
 <!-- Proper nouns -->
 

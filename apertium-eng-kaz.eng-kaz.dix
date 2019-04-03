@@ -76,7 +76,6 @@
     <sdef n="cnjsub"  c=""/>
     <sdef n="cop"  c=""/>
     <sdef n="postadv"  c=""/>
-    <sdef n="qst"  c=""/>
     <sdef n="dem"  c=""/>
 
     <sdef n="sg"  c=""/>
@@ -151,14 +150,12 @@
 <e r="RL"><eng></eng><kaz>бұл<s n="prn"/><s n="dem"/><s n="adv"/></kaz></e>
 <e r="RL"><eng></eng><kaz>да<s n="postadv"/></kaz></e>
 <e r="RL"><eng></eng><kaz>де<s n="v"/><s n="tv"/></kaz></e>
-<e r="RL"><eng></eng><kaz>е<s n="cop"/></kaz></e>
 <e r="RL"><eng></eng><kaz>емес<s n="vaux"/></kaz></e>
 <e r="RL"><eng></eng><kaz>жат<s n="vaux"/></kaz></e>
 <e r="RL"><eng></eng><kaz>жатқан<b/>жоқ<s n="vaux"/><s n="neg"/><s n="pres"/></kaz></e>
 <e><eng>go<s n="vblex"/></eng><kaz>жүр<s n="v"/><s n="iv"/></kaz></e>
 <e r="RL"><eng></eng><kaz>жүр<s n="vaux"/></kaz></e>
 <e r="RL"><eng></eng><kaz>керек<s n="n"/></kaz></e>
-<e r="RL"><eng></eng><kaz>ма<s n="qst"/></kaz></e>
 <e r="RL"><eng></eng><kaz>отыр<s n="vaux"/></kaz></e>
 <e r="RL"><eng></eng><kaz>сыз<s n="post"/></kaz></e>
 <e r="RL"><eng></eng><kaz>тұр<s n="vaux"/></kaz></e>
@@ -16010,7 +16007,6 @@
 <e r="LR"><eng>vertigos<s n="n"/></eng><kaz>бас<b/>айналу<s n="n"/></kaz></e>
 <e r="LR"><eng>watch<s n="n"/></eng><kaz>сағат<s n="n"/></kaz></e>
 <e r="RL"><eng>time<s n="n"/></eng><kaz>сағат<s n="n"/></kaz></e>
-<e r="RL"><eng></eng><kaz>шы<s n="emph"/></kaz></e>
 <e r="RL"><eng></eng><kaz>гөрі<s n="post"/></kaz></e>
 <e r="RL"><eng>by<s n="pr"/></eng><kaz>сайын<s n="post"/></kaz></e>
 

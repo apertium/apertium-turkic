@@ -7,21 +7,67 @@
 
   <section id="copula" type="standard">
     <e>
+      <bak>и<s n="cop"/></bak>
       <kaz>е<s n="cop"/></kaz>
       <tat>и<s n="cop"/></tat>
+      <tat r="tat-eng">и<s n="cop"/><s n="aor"/><s n="p3"/><s n="sg"/></tat>
+      <tur>i<s n="cop"/></tur>
+      <rus>быть<s n="vbser"/></rus>
+      <eng>be<s n="vbser"/></eng>
+      <eng r="tat-eng">be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></eng>
     </e>
   </section>
+  <section id="particles" type="standard">
+    <e>
+      <bak>әле<s n="emph"/></bak>
+      <bak>һана<s n="emph"/></bak>
+      <bak>сы<s n="emph"/></bak>
+      <kaz>шы<s n="emph"/></kaz>
+      <tat>әле<s n="emph"/></tat>
+      <tat>сана<s n="emph"/></tat>
+      <tat>чы<s n="emph"/></tat>
+      <tur r="NA"></tur>
+      <rus>пожалуйста<s n="ij"/></rus>
+      <eng>please<s n="ij"/></eng>
+    </e>
+    <e>
+      <bak>мы<s n="qst"/></bak>
+      <kaz>ма<s n="qst"/></kaz>
+      <tat>мы<s n="qst"/></tat>
+      <tur>mı<s n="qst"/></tur>      
+      <rus r="NA"></rus>
+      <eng r="NA"></eng>
+    </e>
+    <e>
+      <bak>мы<b/>икән<s n="qst"/></bak>
+      <kaz>мекен<s n="qst"/></kaz>
+      <tat>микән<s n="qst"/></tat>
+      <!-- <tur>mı acaba</tur>-->
+      <rus r="NA"></rus>
+      <eng r="NA"></eng>
+    </e>
+
+<e>       <kaz>ма<b/>не<s n="qst"/></kaz>                    <tat>мыни<s n="qst"/></tat></e>
+<e>       <kaz>ше<s n="qst"/></kaz>                          <tat>ничек<s n="adv"/><s n="itg"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>бит<s n="mod_ass"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ич<s n="mod_ass"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ла<s n="mod_ass"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ләса<s n="mod_ass"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>ләбаса<s n="mod_ass"/></tat></e>
+<e>       <kaz>ғой<s n="mod_ass"/></kaz>                     <tat>шул<s n="mod_ass"/></tat></e>
+<e>       <kaz>шығар<s n="mod"/></kaz>                       <tat>дыр<s n="mod_ind"/></tat></e>
+<e r="RL"><eng></eng><kaz>шы<s n="emph"/></kaz></e>
+<e>       <kaz>ма<s n="qst"/></kaz><tur>mı<s n="qst"/></tur></e>
   
   <section id="nouns" type="standard">
     <e>
       <bak>сәләм<s n="n"/></bak>
       <kaz>сәлем<s n="n"/></kaz>
       <tat>сәлам<s n="n"/></tat>
-      <uzb_Latn>salom</uzb_Latn>
-      <uzb_Cyrl>салом</uzb_Cyrl>
+      <uzb_Latn>salom<s n="n"/></uzb_Latn>
+      <uzb_Cyrl>салом<s n="n"/></uzb_Cyrl>
     </e>
   </section>
-  
   <section id="punctuation" type="standard">
     <e>
       <kaz>,<s n="cm"/></kaz>

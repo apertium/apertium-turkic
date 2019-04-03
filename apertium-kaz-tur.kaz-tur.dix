@@ -8,7 +8,6 @@
     <sdef n="np"              c="Proper noun"/>
 <sdef n="mod"              c="module"/>
     <sdef n="v"           c="Verb, lexical"/>
-    <sdef n="cop"           c="Copula"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="postadv"           c=""/>
 <sdef n="sim"           c=""/>
@@ -22,7 +21,6 @@
     <sdef n="post"              c="Postposition"/>
     <sdef n="coop"              c="Cooperative"/>
     <sdef n="adv"             c="Adverb"/>
-    <sdef n="qst"             c=""/>
     <sdef n="advl"            c=""/>
 <sdef n="subst"            c=""/>
     <sdef n="ij"              c="Interjection"/>
@@ -127,7 +125,6 @@
 
    <section id="main" type="standard">
      <!-- SECTION: Miscellaneous -->
-     <e><kaz>ма<s n="qst"/></kaz><tur>mı<s n="qst"/></tur></e>
      <e><kaz>да<s n="postadv"/></kaz><tur>da<s n="postadv"/></tur></e>
 
      <!-- SECTION: Conjunctions -->
@@ -205,7 +202,6 @@
      <e><kaz>кейін<s n="post"/></kaz><tur>sonra<s n="post"/></tur></e>
 <e><kaz>таман<s n="post"/></kaz><tur>kadar<s n="post"/></tur></e>
 <e r="RL"><kaz></kaz><tur>ғана<s n="postadv"/></tur></e>
-<e r="RL"><kaz></kaz><tur>ма<s n="qst"/></tur></e>
 
      <!-- SECTION: Pronouns -->
 
@@ -6374,7 +6370,6 @@
 
      <!-- SECTION: Verbs -->
 
-     <e><kaz>e<s n="cop"/></kaz><tur>i<s n="cop"/></tur></e>
 <e><kaz>тұрақтан<s n="v"/><s n="tv"/></kaz><tur>sabitleş<s n="v"/><s n="tv"/></tur></e>
 <e><kaz>қудала<s n="v"/><s n="tv"/></kaz><tur>acı<b/>çektir<s n="v"/><s n="iv"/></tur></e>
 
@@ -7437,7 +7432,6 @@
 
 <e><kaz>доллар<s n="n"/></kaz><tur>dolar<s n="n"/></tur></e>
 <e><kaz>дүниежүзілік<s n="adj"/></kaz><tur>dünya<b/>çapındaki<s n="adj"/></tur></e>
-<e><kaz>е<s n="cop"/></kaz><tur>i<s n="cop"/></tur></e>
 <e><kaz>егемен<s n="adj"/></kaz><tur>bağımsız<s n="adj"/></tur></e>
 <e><kaz>әйел<s n="n"/><s n="pl"/></kaz><tur>bayan<s n="n"/><s n="pl"/></tur></e>
 
@@ -8328,7 +8322,6 @@
 <e r="LR"><kaz>ғой<s n="mod_ass"/></kaz><tur></tur></e>
 <e r="LR"><kaz>ғана<s n="postadv"/></kaz><tur></tur></e>
 <e r="LR"><kaz>лы<s n="post"/></kaz><tur></tur></e>
-<e r="LR"><kaz>шы<s n="emph"/></kaz><tur></tur></e>
 <!-- SECTiON: Пунктуация -->
    </section>
 </dictionary>
