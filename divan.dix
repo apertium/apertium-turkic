@@ -2,14 +2,87 @@
 <!-- See http://wiki.apertium.org/wiki/User:Unhammer/wishlist#A_%22grouping%22_tag_for_bidix for the initial idea -->
 
 <dictionary>
-<alphabet></alphabet>
-<sdefs></sdefs>
+  <alphabet></alphabet>
+  <sdefs></sdefs>
 
-<section id="main" type="standard">
-<e><bak>сәлем<s n="n"/></bak>
-   <kaz>сәлем<s n="n"/></kaz>
-   <tat>сәлам<s n="n"/></tat>
-   <uzb_Latn>salom</uzb_Latn>
-   <uzb_Cyrl>салом</usb_Cyrl></e>
-</section>
+  <section id="copula" type="standard">
+    <e>
+      <kaz>е<s n="cop"/></kaz>
+      <tat>и<s n="cop"/></tat>
+    </e>
+  </section>
+  
+  <section id="nouns" type="standard">
+    <e>
+      <bak>сәлем<s n="n"/></bak>
+      <kaz>сәлем<s n="n"/></kaz>
+      <tat>сәлам<s n="n"/></tat>
+      <uzb_Latn>salom</uzb_Latn>
+      <uzb_Cyrl>салом</usb_Cyrl>
+    </e>
+  </section>
+  
+  <section id="punctuation" type="standard">
+    <e>
+      <kaz>,<s n="cm"/></kaz>
+      <tat>,<s n="cm"/></tat>
+    </e>
+    <e>
+      <kaz>(<s n="lpar"/></kaz><tat>(<s n="lpar"/></tat>
+    </e>
+    <e>
+      <kaz>)<s n="rpar"/></kaz>
+      <tat>)<s n="rpar"/></tat>
+    </e>
+    <e>
+      <kaz>[<s n="lpar"/></kaz>
+      <tat>[<s n="lpar"/></tat>
+    </e>
+    <e>
+      <kaz>]<s n="rpar"/></kaz>
+      <tat>]<s n="rpar"/></tat>
+    </e>
+    <e>
+      <kaz>«<s n="lquot"/></kaz>
+      <tat>«<s n="lquot"/></tat>
+    </e>
+    <e>
+      <kaz>»<s n="rquot"/></kaz>
+      <tat>»<s n="rquot"/></tat>
+    </e>
+    <e>
+      <kaz>“<s n="lquot"/></kaz>
+      <tat>“<s n="lquot"/></tat>
+    </e>
+    <e>
+      <kaz>”<s n="rquot"/></kaz>
+      <tat>”<s n="rquot"/></tat>
+    </e>
+    <e>
+      <kaz>-<s n="guio"/></kaz>
+      <tat>-<s n="guio"/></tat>
+    </e>
+    <e>
+      <kaz>—<s n="guio"/></kaz>
+      <tat>—<s n="guio"/></tat>
+    </e>
+    <e>
+      <kaz>'<s n="apos"/></kaz>
+      <tat>'<s n="apos"/></tat>
+    </e>
+    <e>
+      <re>[.\?;:!"]+</re><kaz><s n="sent"/></kaz>
+      <tat><s n="sent"/></tat>
+    </e>
+    <e>
+      <re>[№%]?[0-9]+([.,][0-9]+)*[.,]*</re>
+      <kaz><s n="num"/></kaz>
+      <tat><s n="num"/></tat>
+    </e> 
+    <e>
+      <re>[аәбвгғдеёжзиійкқлмнңоөпрстуұүфхһцчшщьыъэюя]</re>
+      <kaz><s n="ltr"/></kaz>
+      <tat><s n="ltr"/></tat>
+    </e>
+  </section>
 </dictionary>
